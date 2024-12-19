@@ -30,6 +30,18 @@ The model achieves:
 - **Sequence Accuracy:** 52.58% on the test set
 - **Test Loss:** 0.3549
 
+### 3. `SingleCharacterRFModel.ipynb`
+This Jupyter notebook includes:
+- The implementation of the single-character OCR random forest model.
+- Code for training and evaluating the model.
+- Visualization of results.
+
+### 4. `SingleCharacterDLModel.ipynb`
+This Jupyter notebook includes:
+- The implementation of the single-character OCR cnn-based model.
+- Code for training and evaluating the model.
+- Visualization of training progress, including accuracy and loss graphs.
+
 ## How to Use
 
 ### Requirements
@@ -41,7 +53,25 @@ The project requires the following libraries:
 - tqdm
 - Jupyter Notebook
 
-### Steps to Run
+### Steps to Run Single-Character OCR Models
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd <repository_folder>
+   ```
+
+2. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open the desired Jupyter notebook:
+   ```bash
+   jupyter notebook SingleCharacterDLModel.ipynb
+   ```
+4. Follow the instructions presented in the notebook.
+
+### Steps to Run Multi-Character OCR Model
 1. Clone the repository:
    ```bash
    git clone <repository_url>
