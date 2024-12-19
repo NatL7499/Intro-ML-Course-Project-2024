@@ -5,14 +5,14 @@ This repository contains the code and pretrained models developed for a course p
 ## Repository Structure
 
 ```
-|-- OCR_Project.ipynb       # Main notebook containing the OCR model implementation and training code
+|-- MultiOCR_Project.ipynb       # Main notebook containing the OCR model implementation and training code
 |-- multi_ocr_model.pth     # Pretrained weights for the multi-character OCR model
 |-- README.md               # Documentation for the repository
 ```
 
 ## Contents
 
-### 1. `OCR_Project.ipynb`
+### 1. `MultiOCR_Project.ipynb`
 This Jupyter notebook includes:
 - The implementation of the multi-character OCR model.
 - Code for training and evaluating the model.
