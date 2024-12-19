@@ -5,9 +5,15 @@ This repository contains the code and pretrained models developed for a course p
 ## Repository Structure
 
 ```
-|-- MultiOCR_Project.ipynb       # Main notebook containing the OCR model implementation and training code
-|-- multi_ocr_model.pth     # Pretrained weights for the multi-character OCR model
-|-- README.md               # Documentation for the repository
+|-- ML Project Report.pdf                     # Final Project Report
+|-- ML Fall 2024 Project Presentation.pdf     # Final Project Presentation
+|-- ML Fall 2024 Project Presentation.ppptx   # Final Project Presentation but in PPTX
+|-- SingleCharacterDLModel.ipynb              # Main notebook containing the Deep-Learned Single Character OCR model implementation and training code
+|-- SingleCharacterDLModel.ipynb              # Main notebook containing the Random Forest Single Character OCR model implementation and training code
+|-- MultiOCR_Project.ipynb                    # Main notebook containing the Multi-Character OCR model implementation and training code
+|-- multi_ocr_model.pth                       # Pretrained weights for the Multi-Character OCR model
+|-- README.md                                 # Documentation for the repository
+|-- requirements.txt                          # Requirements to run the Muti-Character Model
 ```
 
 ## Contents
